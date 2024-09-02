@@ -1,0 +1,16 @@
+[
+{
+  "modid": "str",
+  "name": "See The Rarities Mod",
+  "description": "A mod to allow you see the rarity of the items",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Enzo"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
